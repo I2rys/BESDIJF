@@ -1,0 +1,25 @@
+{
+    "name": "besdijf",
+    "version": "1.0.0",
+    "description": "Base64 encoded strings decoder in a Javascript file.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [
+      "i2rys",
+      "besdijf",
+      "base64-decoder",
+      "base64-strings-decoder",
+      "base64-decryptor",
+      "base64-strings-decryptor"
+    ],
+    "repository": "https://github.com/I2rys/BESDIJF",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
+  
