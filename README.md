@@ -23,7 +23,6 @@ npm i simple-exec
 ```
 
 ## Usage
-Default start:
 ```
 node index.js <input> <output>
 ```
