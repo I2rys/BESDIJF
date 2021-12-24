@@ -1,7 +1,7 @@
 {
     "name": "besdijf",
     "version": "1.0.0",
-    "description": "Base64 encoded strings decoder in a Javascript file.",
+    "description": "Javascript file Base64 encoded strings decoder.",
     "main": "index.js",
     "scripts": {
       "test": "jest"
